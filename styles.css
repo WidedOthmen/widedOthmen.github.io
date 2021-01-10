@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+
+html{
+    scroll-behavior: smooth;}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin: 0;
+}
+
+a, a:hover{  
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.p-cursor{
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.p-flex{
+    display: flex;
+}
+
+.p-flex-align-center{
+    align-items: center;
+}
+
+.p-flex-jc-sb{
+    justify-content: center;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
